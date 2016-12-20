@@ -1,0 +1,27 @@
+AKDamm 2 4 3
+Alhambra 2 8 1
+Ámbar 5 27 0
+Caleya 3 16 0
+Cruzcampo 4 14 0
+Domus 0 1 0
+Duna 1 1 0
+Estrella Damm 12 48 3
+Estrella Galicia 3 23 1
+Estrella Levante 1 1 0
+Illa 2 0 0
+Inedit 1 9 1
+HR 45 47 8
+Keler 4 14 0
+La Cibeles 1 0 0
+Mahou 27 64 9
+Montseny 0 1 0
+Moritz 0 1 0
+Rosita 0 1 0
+San Miguel 36 52 6
+Taïfa 1 1 0
+Tropical 5 91 4
+VollDamm 4 3 2
+Reina 2 5 0
+Bayura 1 1 0
+Skol 20 71 9
+Victoria 26 65 9

@@ -1,0 +1,35 @@
+AKDamm 2 4 2
+Alcazar 0 1 0
+Alhambra 9 27 19
+Ámbar 5 78 17
+AORA 0 1 0
+Bayyana 0 1 1
+Caleya 3 17 15
+Cruzcampo 16 51 32
+Calatrava 0 1 0
+Costa Sol 0 1 0
+Cruz Azul 0 1 0
+Cruz Blanca 0 1 0
+Domus 0 3 0
+Estrella Damm 18 49 24
+Estrella Galicia 15 63 21
+Estrella Levante 6 11 2
+Illa 1 1 1
+Inedit 1 1 2
+Estrella del Sur 0 1 0
+HR 4 11 0
+Keler 26 60 14
+La Cibeles 2 13 4
+El León 0 1 0
+Mahou 25 45 30
+Montseny 1 3 3
+Moritz 3 5 0
+Rosita 0 4 1
+San Miguel 7 37 10
+Tropical 0 4 2
+VollDamm 5 50 22
+Reina 3 36 23
+Bayura 0 10 2
+Skol 7 46 47
+Turia 0 9 4
+Victoria 12 65 23

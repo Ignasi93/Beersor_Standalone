@@ -1,0 +1,12 @@
+AKDamm 0 0 0
+Bayyana 0 0 0
+Caleya 0 0 0
+Cruzcampo 0 1 0
+Estrella Damm 0 0 1
+Damm Daura 0 0 0
+Estrella Galicia 0 0 0
+Estrella Levante 0 0 0
+Keler 0 0 0
+Mahou 0 0 0
+VollDamm 0 0 0
+Skol 0 0 0
